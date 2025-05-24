@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AishLiberon
+- 👋 Hi, I’m @AishLiberz
 - 👀 I’m interested in Data science and machine learning projects
 - 🌱 I’m currently learning environmental biogeochemistry
 - 💞️ I’m looking to collaborate on ...
